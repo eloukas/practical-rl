@@ -6,7 +6,7 @@
  Assignments can be found inside each week's folders and they're displayed in commented Jupyter notebooks along with quizzes.
 
  ## Syllabus
- - *Week1:*
+ - *Week 1:*
    -  **OpenAI Gym Environment**
    -   **MDPs**
    -   Cross-entropy method
