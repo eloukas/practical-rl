@@ -33,7 +33,7 @@
   -    REINFORCE
   -    **Actor-critic**
   -  A3C
-- *Week 6:*  **[WIP]**
+- *Week 6:*  
   - Exploration
   -  Measuring
   -   Uncertainty-based exploration
